@@ -6213,3 +6213,13 @@ blockquote.pullquote.right {
   display: none;
   background: rgba(0,0,0,0.6);
 }
+.aside-qrcode {
+  text-align: center;
+  padding-top: 4px;
+}
+.aside-qrcode img {
+  max-width: 100%;
+  width: 200px;
+  height: 200px;
+  margin: 4px 4px -10px 4px;
+}
